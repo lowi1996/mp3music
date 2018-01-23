@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">mp3 music</string>
+    <string name="edit_text">Copia la URL aquí!!</string>
+    <string name="edittext_text">Introduce la URL aquí!!!</string>
+    <string name="download_button">Descarga</string>
+</resources>
